@@ -1,7 +1,5 @@
 # Tests Logiciels
 
-Bonjour,
-
 Ce répertoire contient 3 éléments : 
 
 ### 1. ISTQB 
