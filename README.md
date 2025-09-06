@@ -8,7 +8,9 @@ https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/
 
 Les deux autres éléments concernent des **études de cas** de processus de tests logiciels :
 
-### 2. Gestion immobilière
 Plan de test - Spécifications fonctionnelles - Liste des exigences - Cas de tests
+
+
+### 2. Gestion immobilière
 
 ### 3. GMAO
