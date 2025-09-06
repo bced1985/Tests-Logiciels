@@ -1,7 +1,6 @@
 # Tests Logiciels
 
 Bonjour,
-Dans ce répertoire, je présente mes connaissances en tests logiciels.
 
 Ce répertoire contient 3 éléments : 
 
