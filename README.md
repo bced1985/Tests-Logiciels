@@ -5,13 +5,13 @@ Dans ce répertoire, je présente mes connaissances en tests logiciels.
 
 Ce répertoire contient 3 éléments : 
 
-### ISTQB 
+### 1. ISTQB 
 Il s'agit d'un résumé de ma lecture du Syllabus ISTQB® Certified Tester Foundation Level (CTFL), disponible ici :
 https://istqb.org/certifications/certified-tester-foundation-level-ctfl-v4-0/
 
 Les 2 autres éléments concernent des **études de cas** de processus de tests logiciels :
 
-### Gestion immobilière
+### 2. Gestion immobilière
 Plan de test - Spécifications fonctionnelles - Liste des exigences - Cas de tests
 
-### GMAO
+### 3. GMAO
